@@ -1,6 +1,9 @@
 streamlit==1.42.0
-nltk>=3.8.1
+nltk==3.14.1
 matplotlib==3.8.0
-pandas>=2.1.0
+pandas==2.1.0
 SpeechRecognition==3.14.1
-PyAudio==0.2.13
+pipwin==0.5.2
+sounddevice==0.4.6
+wavio==0.0.7
+numpy==1.26.0
