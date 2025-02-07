@@ -9,5 +9,4 @@ scipy
 numpy
 speechrecognition
 streamlit-webrtc
-pyaudio
-pyaudio==0.2.13
+
